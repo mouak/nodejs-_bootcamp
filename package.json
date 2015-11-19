@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-_bootcamp",
+  "version": "1.0.0",
+  "description": "This my training folder @ TECHNOCITE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouak/nodejs-_bootcamp.git"
+  },
+  "keywords": [
+    "Training",
+    "NODE",
+    "GIT",
+    "TECHNOCITE",
+    "TRIPTYK"
+  ],
+  "author": "TCDP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mouak/nodejs-_bootcamp/issues"
+  },
+  "homepage": "https://github.com/mouak/nodejs-_bootcamp#readme"
+}
