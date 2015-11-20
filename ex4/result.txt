@@ -4,5 +4,6 @@ ex2
 ex3
 ex4
 LICENSE
+modules
 package.json
 README.md
