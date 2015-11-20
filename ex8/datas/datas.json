@@ -1,0 +1,25 @@
+{
+"friends": [
+  {
+    "id":1,
+    "name": "romain",
+    "adresse": "rue de la haut",
+    "cp": "1050",
+    "friends": ["gilles", "vincent", "stephane"]
+  },{
+    "id":2,
+    "name": "Alain",
+    "adresse": "rue de la haute 2",
+    "cp": "1030",
+    "friends": ["gilles", "vincent", "stephane"]
+
+  },{
+    "id":3,
+    "name":"Philipe",
+    "adresse":"rue de la haute 3",
+    "cp":"1020",
+    "friends":["gilles", "vincent", "stephane"]
+  }
+]
+
+}
