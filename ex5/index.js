@@ -34,3 +34,9 @@ function updateFile(){
  });
 
 }
+
+//Ceci remplace tout le code de fs.stat de la ligne7-22
+// fs.appendFile('list.txt', utils.createNiceListofFiles(elements), function(err){
+//   if (err) throw err;
+//   console.log('great !');
+// });
