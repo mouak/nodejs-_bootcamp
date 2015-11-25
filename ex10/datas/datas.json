@@ -19,9 +19,15 @@
     "friends": ["gilles", "vincent", "stephane"]
   }, {
     "id": 4,
-    "name": "romain4",
+    "name": "labaauloinc'estbien",
     "adresse": "rue de la haut4",
     "cp": "7 ciel",
     "friends": ["gilles", "vincent", "stephane"]
+  }, {
+    "name": "bernard",
+    "adresse": "rue de la danade",
+    "cp": "7 ciel",
+    "friends": ["gilles", "vincent", "stephane"],
+    "id": 5
   }]
 }

@@ -1,11 +1,13 @@
-function utils(){
+function utils() {
+
   //API PRIVEE
-  function createNiceListofFiles(arrFiles){
+  function createNiceListOfFiles(arrFiles) {
     return arrFiles.join('\n');
   }
-  //API PUBLIC
+
+  //API publique
   var that = {};
-  that.createNiceListofFiles = createNiceListofFiles;
+  that.createNiceListOfFiles = createNiceListOfFiles;
   return that;
 }
 module.exports = utils();
